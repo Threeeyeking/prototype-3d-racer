@@ -13,6 +13,7 @@ To visit the deployed site click the following link []()
 
 * Javascript
 * HTML
+* Currently bein built on phaser 3 framework, but subject to change.
 
 ## Sole Contributor
 
