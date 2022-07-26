@@ -7,7 +7,7 @@ A prototype 3d racing game, inspired by retro titles, such as outrun, and more m
 ## Getting Started
 
 To visit the deployed site click the following link []()
-, launch source code in your live server, or web browser. (This applies once code is complete, and final project is completed)
+, launch source code in your live server, or web browser. (This applies once code is complete, and final project is completed. As game is only in beginning stage of dev)
 
 ## Built with
 
