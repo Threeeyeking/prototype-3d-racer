@@ -2,7 +2,7 @@
 
 ## About
 
-A prototype 3d racing game, inspired by retro titles, such as outrun, and more modern titles, such as need for speed.
+A prototype 3d racing game, inspired by retro titles, such as outrun, and more modern titles, such as need for speed. Where you will race in various environments, with the goal of winning each race while avoiding traffic
 
 ## Getting Started
 
